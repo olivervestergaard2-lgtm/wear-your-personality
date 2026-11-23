@@ -1,0 +1,27 @@
+/*
+Theme Name: Astra Child Theme - Oliver Thuesen
+Theme URI: https://wpastra.com/
+Author: Oliver Thuesen
+Author URI: https://learnhowtousewp.olivervestergaarddesign.dk/
+Description: Child theme based on Astra.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: oliver-thuesen
+Template: astra
+*/
+
+/* Wear Your Personality */
+.tt-designer .tt-preview {
+  border: 1px solid #dfe5e1;
+  border-radius: 16px;
+  box-shadow: 0 4px 16px rgb(22 46 36 / 8%);
+}
+
+.tt-designer button.tt-order {
+  border-radius: 12px;
+}
+
+.tt-designer .tt-summary:not([hidden]) {
+  border-inline-start: 4px solid #31574a;
+}
